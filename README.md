@@ -6,6 +6,7 @@ Senior software engineer in Bologna. Twenty years in IT, mostly front end: from 
 
 - **[Angular Bug Clinic](https://github.com/massimilianoborgatti/angular-bug-clinic)** — 15 real-world Angular, Ionic, React and WordPress bugs, each with a broken version, a minimal fix, a test that proves it and a write-up. [Live demo](https://massimilianoborgatti.github.io/angular-bug-clinic/)
 - **[AI Support Assistant](https://github.com/massimilianoborgatti/nextjs-ai-support-assistant)** — Next.js help-center assistant grounded in the site's FAQ, with sources, a server-side API key and credential-free tests. [Live demo](https://massimilianoborgatti.github.io/nextjs-ai-support-assistant/)
+- **[MCP Support Evals](https://github.com/massimilianoborgatti/mcp-support-evals)** — TypeScript MCP server with a Claude tool-use loop and 54 deterministic evals (tool selection, grounding, privacy, write safety, prompt injection, out of scope), with published live results and costs.
 
 ## Stack
 
